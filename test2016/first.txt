@@ -1,4 +1,0 @@
-This is the first line
-second line
-this is conflict resolution
-
