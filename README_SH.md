@@ -40,4 +40,4 @@ address
 
 ![alt-text][logo]
 
-[logo]: http://github.com/RedCham/ComputerSystemBasic/Koreatech.png
+[logo]: http://github.com/RedCham/ComputerSystemBasic/Koreatech.png "logo title text 1"
