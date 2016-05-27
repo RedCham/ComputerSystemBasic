@@ -9,6 +9,7 @@
 
 ##***Team Member***
 >[Kim Seong Hyun](https://github.com/RedCham/ComputerSystemBasic/blob/master/README_SH.md)
+
 >[Oh Tae Young][1]
 
 *Member* | Oh Tae Young | Kim Seong Hyun
