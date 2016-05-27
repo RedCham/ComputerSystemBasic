@@ -38,6 +38,6 @@ address
 
 [1]: http://github.com/RedCham/ComputerSystmeBasic
 
-![alt-text][logo]
+![alt text][logo]
 
 [logo]: http://github.com/RedCham/ComputerSystemBasic/Koreatech.png "logo title text 1"
