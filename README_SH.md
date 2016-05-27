@@ -24,14 +24,20 @@ Purpose
 User
 ----
 
--SH
--SM
--TY
+name | role | pay 
+--- | --- | ---
+SeongHyeon | Master | a billion
+SeonMun | slave | Ransom
+TaeYeong | slave | Ransom
 
 
 address
 -------
-
-[repositoty][1]
+[repository](http://github.com/RedCham/ComputerSystemBasic)
+[repository][1]
 
 [1]: http://github.com/RedCham/ComputerSystmeBasic
+
+[!alt-text][logo]
+
+[logo]: http://github.com/RedCham/ComputerSystemBasic/Koreatech.png
