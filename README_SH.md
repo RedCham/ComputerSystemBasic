@@ -35,7 +35,15 @@ address
 -------
 
 ```C++
-cout << "http://github.com/RedCham/ComputerSystemBasic" << endl;
+#include <iostream>
+#include <string>
+using namespace std;
+
+void main() {
+	string address;
+	address = "http://github.com/RedCham/ComputerSystemBasic";
+	cout << address << endl;
+}
 ```
 
 [repository](http://github.com/RedCham/ComputerSystemBasic)
