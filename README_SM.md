@@ -1,6 +1,6 @@
 #***PROFILE***
 1. **Name** : Choi Seon Mun
-2. **Nationality : Republic of Korea
+2. **Nationality** : Republic of Korea
 3. **Age** : 22
 4. **University** : Korea University of Technology and Education
 5. **Major** : Computer Science Engineering
