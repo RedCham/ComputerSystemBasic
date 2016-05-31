@@ -28,5 +28,5 @@ cout << "Hello, Markdown!" << endl;
 ##**Wicher3**
 ![](http://gearnuke.com/wp-content/uploads/2015/10/witcher3-wallpaper.jpg)
 
-[1]: (http://github.com/RedCham/ComputerSystemBasic/blob/master/taeyoung.txt)
+[1]: http://github.com/RedCham/ComputerSystemBasic/blob/master/taeyoung.txt
 
