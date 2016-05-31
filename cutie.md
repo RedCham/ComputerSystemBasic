@@ -20,6 +20,9 @@ cout << "timeout!!" << endl;
 1. mokrock
 2. mockroak
 
+'''C++
+cout << what?!!! ;
+'''
 
 
 
