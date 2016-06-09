@@ -12,7 +12,7 @@ List
 
 >- *Note*
 >- this **Document** is not finished.
->- It can update anytime.
+>- It can be updated anytime.
 
 Purpose
 -------
