@@ -49,8 +49,7 @@ ___
 
 * a
 * b
-⋅⋅⋅a
-
+⋅⋅⋅a⋅⋅
 [repository](http://github.com/RedCham/ComputerSystemBasic)
 [repository][1]
 
