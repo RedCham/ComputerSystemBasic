@@ -47,8 +47,8 @@ void main() {
 ```
 ___
 
-... a
-... b
+* a
+* b
 
 [repository](http://github.com/RedCham/ComputerSystemBasic)
 [repository][1]
