@@ -18,7 +18,7 @@ Purpose
 -------
 
 -To be peacefull all over the world
- -forever
+-forever
 
 
 User
