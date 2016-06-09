@@ -12,6 +12,7 @@
 
 >[Oh Tae Young][1]
 
+>![Choi Seon Mun][최선문](https://github.com/RedCham/ComputerSystemBasic/edit/master/README_SM.md)
 *Member* | Oh Tae Young | Kim Seong Hyun
 ---------|--------------|---------------
 Age|21|21
