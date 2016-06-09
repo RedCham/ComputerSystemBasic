@@ -7,6 +7,16 @@
 6. **E-mail** : ch002717@gmail.com
 7. **Phone number** : 010-4468-4533
 
+- One
+- Two
+- Three
+/ One
+/ Two
+/ Three
+* One
+* Two
+* Three
+
 ##***Team Member***
 >[Kim Seong Hyun](https://github.com/RedCham/ComputerSystemBasic/blob/master/README_SH.md)
 
